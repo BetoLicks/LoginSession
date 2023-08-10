@@ -14,7 +14,7 @@ Pequeno sistema de login com Node.js sem acesso a banco de dados.
 
 ## 📄 Licença
 
-Este projeto está sob a licença LGPL.
+Este projeto está sob a licença GNU General Public License.
 
 ---
-⌨️ com ❤️ por [Beto Licks] 😊
+⌨️ com ❤️ por Beto Licks 😊
