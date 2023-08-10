@@ -4,13 +4,13 @@ Pequeno sistema de login com Node.js sem acesso a banco de dados.
 
 ## 🛠️ Construído com
 
-* Node.js (https://nodejs.org/en) - Franmework
+* Node.js (https://nodejs.org/en) 
 * Express
 * Express Session
 
 ## ✒️ Autor
 
-* **Beto Licks** - *Trabalho Inicial* - [umdesenvolvedor](https://github.com/linkParaPerfil)
+* **Beto Licks** - (https://github.com/BetoLicks/)
 
 ## 📄 Licença
 
